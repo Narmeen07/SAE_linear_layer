@@ -1,5 +1,4 @@
-"""Most of this is just copied over from Arthur's code and slightly simplified:
-https://github.com/ArthurConmy/sae/blob/main/sae/model.py
+"""Most of this is just copied over from Joesph blooms's code and slightly simplified:
 """
 
 import gzip
