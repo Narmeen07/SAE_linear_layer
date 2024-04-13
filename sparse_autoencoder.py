@@ -1,4 +1,4 @@
-"""Most of this is just copied over from Joesph blooms's code and slightly simplified:
+"""Most of this is just copied over from Joseph Blooms's code and slightly simplified:
 """
 
 import gzip
